@@ -1,6 +1,8 @@
+<!--
 <div id="header">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+-->
 
 <!--
 <div id="badges" align="center">
@@ -13,9 +15,9 @@
 
 
 ### :man_technologist: About Me :
-- :man_student: I’m studying Artificial Intelligence.
+- :man_student: Master's degree student in Artificial Intelligence.
 
-- :computer: I'm mainly programming in Python.
+- :computer: Programming in Python.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -29,6 +31,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" **alt="NumPy" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" **alt="Pandas" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="TensorFlow" **alt="TensorFlow" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" **alt="PyTorch" width="40" height="40"/>
+  
 </div>
 
 <!--
